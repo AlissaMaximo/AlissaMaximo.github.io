@@ -1,0 +1,33 @@
+#name {
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 30px;
+}
+
+#description {
+    font-family: 'M PLUS 1', sans-serif;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.highlight {
+    font-weight: 600;
+}
+
+.best {
+    font-size: larger;
+}
+
+.nice {
+    font-size: medium;
+}
+
+/*
+REFERENCES
+
+FONTS:
+https://fonts.google.com/specimen/M+PLUS+1#standard-styles
+https://fonts.google.com/specimen/Shippori+Antique#glyphs
+
+*/
